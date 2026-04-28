@@ -4,6 +4,7 @@
 // in your package.
 //
 // -----------------------------------------------------------------------------
+using UnityEngine;
 
 namespace Oortgamestudio.Upmtest
 {

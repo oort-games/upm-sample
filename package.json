@@ -1,7 +1,7 @@
 {
   "name": "com.oortgamestudio.upmtest",
   "displayName": "Upm Test",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "unity": "6000.3",
   "unityRelease": "10f1",
   "description": "Replace this with your own description of the package. \n\nFor best results, use this text to summarize: \n\u25aa What the package does \n\u25aa How it can benefit the user \n\nNote: Special formatting characters are supported, including line breaks ('\\n') and bullets ('\\u25AA').",
@@ -15,5 +15,12 @@
   },
   "changelogUrl": "https://example.com/changelog.html",
   "documentationUrl": "https://example.com/",
-  "licensesUrl": "https://example.com/licensing.html"
+  "licensesUrl": "https://example.com/licensing.html",
+  "samples": [
+    {
+      "displayName": "\uae30\ubcf8 \uc608\uc81c (Basic Samples)",
+      "description": "\uc774 \ud328\ud0a4\uc9c0\uc758 \uae30\ucd08\uc801\uc778 \uc0ac\uc6a9\ubc95\uc744 \ubcf4\uc5ec\uc90d\ub2c8\ub2e4.",
+      "path": "Samples~"
+    }
+  ]
 }
